@@ -1,0 +1,15 @@
+F    Catégories --> Questions --> Réponses (réponses en ligne, réponses en colonne)
+F    Réponses / Questions aléatoires
+    ______________________________
+    [catégorie] Numéro de question - question -
+                                réponse avec carré
+                                réponse avec carré
+                                réponse avec carré
+    Numéro de question - question -
+                                réponse avec carré
+                                ...
+    ______________________________
+    Choix entre Word ou PDF
+    Insertion image (demander précision)
+    Page de garde (exemple: titre au milieu, note, etc...) fournis par user
+    x fichiers différents ou 1 seul avec les x pages
